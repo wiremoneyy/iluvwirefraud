@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Wiremoney,
+- 👀 I’m interested in Minecraft,
+- 🌱 I’m currently learning Python and Java,
+- 📫 Reach me on [Telegram.](https://t.me/orphichcf)
