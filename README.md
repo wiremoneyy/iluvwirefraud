@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Wiremoney,
 - 👀 I’m interested in Minecraft, Fortnite, and Rust.
 - 🌱 I’m currently learning Python and Java,
-- 📫 Reach me on [Telegram.]() CLOSED FOR NOW.
+- 📫 Reach me on CLOSED FOR NOW.
