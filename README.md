@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Wiremoney,
 - 👀 I’m interested in Minecraft, Fortnite, and Rust.
-- 🌱 I’m currently learning Python and Java,
-- 📫 Reach me on [telegram](https://t.me/wir3money)
+- 🌱 I’m currently learning C++
+- 📫 Reach me on [telegram](https://t.me/wir3money) or [Discord](https://discord.com/users/1183181983908646913)
