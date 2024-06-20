@@ -2,3 +2,4 @@
 - 👀 I’m interested in Minecraft, and MW2019.
 - 🌱 I’m currently learning C++ and working on [My Biolink](https://github.com/wiremoneyy/biolinktest2-main)
 - 📫 Reach me on [telegram](https://t.me/wir3money) or [Discord](https://discord.com/users/1183181983908646913)
+- donate to me via LTC at; Lh44ZqWHdwuQqv6obfzh5shsc7o5yvQ8Qg
