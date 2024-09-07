@@ -2,7 +2,7 @@ Wiremoney
 <br>
 <a href="https://komarev.com/ghpvc"> <img align="center" src="https://komarev.com/ghpvc/?username=wiremoneyy"/></a>
 <br>
-I’m currently deciding on a language to learn and working on [My Biolink](https://github.com/wiremoneyy/biolinktest2-main)
+I’m currently working on [My Biolink](https://github.com/wiremoneyy/biolinktest2-main) and learning [Rust](https://www.rust-lang.org/)
 <br>
 Reach me on [**telegram**](https://t.me/ukwarden) or [**Discord**](https://discord.com/users/865911778235908168)
 <br>
@@ -11,6 +11,3 @@ Reach me on [**telegram**](https://t.me/ukwarden) or [**Discord**](https://disco
 [![**My stats**](https://github-readme-stats.vercel.app/api?username=wiremoneyy&show_icons=true&theme=tokyonight)]
 <br>
 ![](https://hit.yhype.me/github/profile?user_id=140651577)
-
-**Learning Rust**
-0.1% done
