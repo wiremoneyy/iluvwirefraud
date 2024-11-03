@@ -11,7 +11,7 @@
   🌱 **Learning:** [Rust](https://www.rust-lang.org/)
   
   💬 **Reach Me On:**
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ukwarden)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wir3money)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/865911778235908168)
 
   💰 [**Support My Work**](https://einfachctf.live/wallets.txt)
